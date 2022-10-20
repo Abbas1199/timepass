@@ -1,0 +1,50 @@
+
+
+
+.header
+{
+    display: flex;
+    border: solid 5px;
+    border-color: Black;
+    gap: 30px 30px;
+    height: auto;
+    flex-flow: row wrap;
+    flex: 1;
+    width: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: space-around
+}
+
+.about
+{
+    background-color:cornflowerblue;
+    padding: 20px;
+
+}
+.home 
+{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.Contacts
+{
+    background-color: beige;
+    padding: 20px;
+}
+.C2
+{
+    background-color:greenyellow;
+    color: aliceblue;
+    padding: 20px;
+}
+.C3
+{
+    background-color: brown;
+    padding: 20px;
+}
+.C4 
+{
+    background-color: aqua;
+    padding: 20px;
+}
