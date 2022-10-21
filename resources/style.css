@@ -1,4 +1,6 @@
-
+a {
+    color: white;
+}
 
 
 .header
@@ -18,33 +20,33 @@
 
 .about
 {
-    background-color:cornflowerblue;
+    background-color:#e30303;
     padding: 20px;
 
 }
 .home 
 {
-    background-color: aquamarine;
+    background-color: #ff8b00;
     padding: 20px;
 }
 .Contacts
 {
-    background-color: beige;
+    background-color: #feed00;
     padding: 20px;
 }
 .C2
 {
-    background-color:greenyellow;
+    background-color:#008026;
     color: aliceblue;
     padding: 20px;
 }
 .C3
 {
-    background-color: brown;
+    background-color: #004dff;
     padding: 20px;
 }
 .C4 
 {
-    background-color: aqua;
+    background-color: #750686;
     padding: 20px;
 }
